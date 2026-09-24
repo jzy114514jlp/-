@@ -29,6 +29,8 @@ npx tsc --noEmit
 npm run build
 ```
 
+由队友在另一台电脑上演示时，请按 [现场演示交接指南](SHOWCASE.md) 提前安装和排练。Windows 电脑也可以双击 `start-demo.cmd` 启动。
+
 ## 现场演示建议
 
 1. 点击“试用黑客松通知”。
