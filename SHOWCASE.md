@@ -6,10 +6,10 @@
 
 安装 Node.js **22.13 或更高版本**。打开终端，运行 `node --version`，确认版本号。Windows 可以使用“命令提示符”或 PowerShell；macOS 可以使用“终端”。
 
-打开 [项目仓库](https://github.com/jzy114514jlp/The-road-of-grow)，点击 **Code → Download ZIP**，解压到电脑上。若已经安装 Git，也可以运行：
+打开 [项目仓库](https://github.com/jzy114514jlp/-)，点击 **Code → Download ZIP**，解压到电脑上。若已经安装 Git，也可以运行：
 
 ```bash
-git clone https://github.com/jzy114514jlp/The-road-of-grow.git
+git clone https://github.com/jzy114514jlp/-.git bie-lou-shi
 ```
 
 ## 2. 启动网页
